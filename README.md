@@ -1,6 +1,6 @@
 Madame, Monsieur,
 
-Suite à votre appel d’offres pour la sélection de formateurs et formatrices – Programme de Compétences Numériques pour Entrepreneur·euse·s (PCNE) citeturn0file0, j’ai l’honneur de vous soumettre ma candidature selon les modalités et conditions requises.
+Suite à votre appel d’offres pour la sélection de formateurs et formatrices – Programme de Compétences Numériques pour Entrepreneur·euse·s (PCNE), j’ai l’honneur de vous soumettre ma candidature selon les modalités et conditions requises.
 
 
 **Lots pour lesquels je soumissionne**  

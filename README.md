@@ -172,6 +172,17 @@ Le présent document présente une proposition de formation à destination des T
 
 ### Jeux pédagogiques et quiz en ligne participatifs
 - Sondage Slido pour définir les thèmes de veille.
+- 
+### Déroulé détaillé – Module e-learning (3 h)
+| Durée  | Activité                                                                 | Support                                       |
+|--------|--------------------------------------------------------------------------|-----------------------------------------------|
+| 30 min | Introduction & prise en main de la plateforme e-learning                 | Vidéo tutorielle + guide PDF                  |
+| 30 min | Techniques de requêtes avancées et opérateurs (`site:`, `intitle:`, etc.) | Vidéo interactive                              |
+| 30 min | Atelier virtuel : construction de requêtes complexes                     | Environnement e-learning                       |
+| 30 min | Configuration d’alertes automatiques (Google Alerts, flux RSS)           | Vidéo + tutoriel pas-à-pas                    |
+| 30 min | Exercice pratique : mise en place d’une alerte et suivi des résultats     | Sandbox e-learning + gabarit de suivi         |
+| 30 min | Quiz de validation & synthèse sur le forum                               | Quiz en ligne + forum de discussion           |
+
 
 ### Déroulé détaillé – Session pratique (3 h)
 | Durée  | Activité                             | Support                        |
@@ -203,6 +214,16 @@ Le présent document présente une proposition de formation à destination des T
 ### Jeux pédagogiques et quiz en ligne participatifs
 - Prompt Battle : deux équipes s'affrontent pour écrire le prompt le plus performant.
 - IA Pictionary : génération d'une image selon un thème donné, puis devinette par les pairs.
+- 
+### Déroulé détaillé – Module e-learning (3 h)
+| Durée  | Activité                                                           | Support                                       |
+|--------|--------------------------------------------------------------------|-----------------------------------------------|
+| 30 min | Introduction aux principes de l’IA et ses grandes catégories       | Vidéo interactive + fiche de synthèse         |
+| 30 min | Vidéo : rédaction de prompts efficaces (texte)                    | Vidéo + exemples commentés                    |
+| 30 min | Atelier interactif : optimisation de prompts textuels             | Sandbox IA (ex. ChatGPT)                      |
+| 30 min | Vidéo : paramètres pour la génération d’images par IA             | Vidéo + tutoriel pas-à-pas                    |
+| 30 min | Exercice pratique : création et réglages d’un prompt image         | Sandbox IA + gabarit                          |
+| 30 min | Quiz interactif & forum de discussion autour des enjeux éthiques  | Quiz en ligne + forum de discussion           |
 
 ### Déroulé détaillé – Session pratique (3 h)
 | Durée  | Activité                             | Support                        |
@@ -234,6 +255,16 @@ Le présent document présente une proposition de formation à destination des T
 ### Jeux pédagogiques et quiz en ligne participatifs
 - Document Race : chaque groupe personnalise un gabarit en un temps imparti.
 
+### Déroulé détaillé – Module e-learning (3 h)
+| Durée  | Activité                                                              | Support                                  |
+|--------|-----------------------------------------------------------------------|------------------------------------------|
+| 30 min | Présentation et configuration d’un compte Google                      | Vidéo tutorielle + guide PDF             |
+| 30 min | Vidéo : mise en forme professionnelle (styles, alignements)           | Vidéo interactive                        |
+| 30 min | Atelier interactif : application de styles à un document              | Sandbox Google Docs                      |
+| 30 min | Vidéo : insertion et positionnement d’éléments visuels (tableaux, images, graphiques) | Vidéo + exemples                         |
+| 30 min | Exercice pratique : création d’un gabarit de facture                  | Sandbox Google Docs + gabarit            |
+| 30 min | Quiz de validation & synthèse des bonnes pratiques                    | Quiz en ligne + forum de discussion      |
+
 ### Déroulé détaillé – Session pratique (3 h)
 | Durée  | Activité                             | Support                        |
 |--------|--------------------------------------|--------------------------------|
@@ -260,6 +291,16 @@ Le présent document présente une proposition de formation à destination des T
 3. Utiliser WhatsApp Business ou équivalent.
 4. Mettre en place une réunion en ligne (Google Meet, Doodle).
 5. Appliquer les bonnes pratiques de communication écrite.
+
+### Déroulé détaillé – Module e-learning (3 h)
+| Durée  | Activité                                                            | Support                                  |
+|--------|---------------------------------------------------------------------|------------------------------------------|
+| 30 min | Introduction & création d’une messagerie professionnelle            | Vidéo tutorielle + guide PDF             |
+| 30 min | Vidéo : planification de rendez-vous (Google Agenda, Doodle…)       | Vidéo interactive                        |
+| 30 min | Exercice interactif : configuration d’un rendez-vous et notifications | Sandbox e-learning                       |
+| 30 min | Vidéo : utilisation de WhatsApp Business (ou équivalent)            | Vidéo + tutoriel pas-à-pas               |
+| 30 min | Exercice pratique : mise en place d’une réunion en ligne (Meet, Zoom…) | Sandbox + guide pas-à-pas                |
+| 30 min | Quiz de validation & synthèse des bonnes pratiques                  | Quiz en ligne + forum de discussion      |
 
 ### Déroulé détaillé – Session pratique (3 h)
 | Durée  | Activité                             | Support                        |
@@ -291,6 +332,16 @@ Le présent document présente une proposition de formation à destination des T
 ### Jeux pédagogiques et quiz en ligne participatifs
 - Phishing Quiz : identification de faux mails en équipes via Quizlet.
 - Password Fortress : création du mot de passe le plus sécurisé.
+
+### Déroulé détaillé – Module e-learning (3 h)
+| Durée  | Activité                                                              | Support                                  |
+|--------|-----------------------------------------------------------------------|------------------------------------------|
+| 30 min | Introduction aux menaces numériques (virus, malwares, phishing)       | Vidéo interactive + fiche de synthèse    |
+| 30 min | Vidéo : gestionnaire de mots de passe & authentification à deux facteurs | Vidéo + tutoriel pas-à-pas               |
+| 30 min | Exercice pratique : configuration d’un gestionnaire de mots de passe  | Sandbox e-learning                       |
+| 30 min | Vidéo : configuration d’un antivirus & mise en place de sauvegardes   | Vidéo + guide PDF                        |
+| 30 min | Atelier interactif : simulation d’infection et résolution            | Sandbox e-learning                       |
+| 30 min | Quiz de validation & synthèse des principes RGPD                     | Quiz en ligne + fiche RGPD               |
 
 ### Déroulé détaillé – Session pratique (3 h)
 | Durée  | Activité                             | Support                        |

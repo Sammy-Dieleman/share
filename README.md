@@ -115,7 +115,8 @@ Le présent document présente une proposition de formation à destination des T
 
 ---
 
-## Lot 1 – Formation générale de remise à niveaux "S'approprier les bases du numérique pour son activité professionnelle"
+## Lot 1 – Formation générale de remise à niveaux 
+Titre : **Compétences Express : remise à niveau pour tou·tes**
 ### Structure du module
 - Formation présentielle exclusivement : 2 sessions de 3 h chacune
   - Séance 1 : navigation sur ordinateur (3 h)
@@ -158,6 +159,7 @@ Le présent document présente une proposition de formation à destination des T
 ---
 
 ## Lot 2 – Formation hybride "Réaliser une veille stratégique à l'aide des moteurs de recherche"
+Titre : **Veille 360° : exploiter les moteurs de recherche en toute simplicité**
 ### Structure du module
 - Module e-learning : 3 h (pré- et post-formation)
 - Session pratique : 3 h
@@ -199,6 +201,8 @@ Le présent document présente une proposition de formation à destination des T
 ---
 
 ## Lot 3 – Formation hybride "L'IA pour entrepreneurs — Passer de la curiosité à l'action"
+Titre : **A & Entrepreneuriat : de la curiosité à l’action pour tou·tes**
+
 ### Structure du module
 - Module e-learning : 3 h (pré- et post-formation)
 - Session pratique : 3 h
@@ -240,6 +244,7 @@ Le présent document présente une proposition de formation à destination des T
 ---
 
 ## Lot 4 – Formation hybride "Créer des documents professionnels avec la suite Google"
+Titre : **Google Workspace Pro : créer, partager et collaborer facilement**
 ### Structure du module
 - Module e-learning : 3 h (pré- et post-formation)
 - Session pratique : 3 h
@@ -280,6 +285,7 @@ Le présent document présente une proposition de formation à destination des T
 ---
 
 ## Lot 5 – Formation hybride "Structurer sa communication client avec les outils numériques essentiels"
+Titre: **Communication Client 2.0 : structurer vos échanges numériques**
 ### Structure du module
 - Module e-learning : 3 h (pré- et post-formation)
 - Session pratique : 3 h
@@ -317,6 +323,7 @@ Le présent document présente une proposition de formation à destination des T
 ---
 
 ## Lot 6 – Formation hybride "Adoptez les réflexes de protection et de cybersécurité essentielles"
+Titre: **Cybersécurité Essentielle : réflexes et protection pour tou·tes**
 ### Structure du module
 - Module e-learning : 3 h (pré- et post-formation)
 - Session pratique : 3 h

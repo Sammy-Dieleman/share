@@ -59,7 +59,7 @@ touch@hexmakina.be
 HexMakina accompagne TPE/PME et indépendants dans l’automatisation de leurs processus métiers et la mise en place de solutions logicielles sur-mesure.  
 - **Conception et déploiement de data pipelines :** création de crawlers et parsers automatisés (web scraping, OCR, NLP) pour extraire et structurer massivement des données hétérogènes.  
 - **Systèmes d’information intégrés :** développement de modules de planification des ressources (ERP léger), tableaux de bord et reporting en temps réel, incluant des algorithmes de prévision et d’aide à la décision.  
-- **Applications web & e-commerce :** architecture et développement full-stack (PHP, JavaScript, MySQL, CSS/Bootstrap), portails clients et plateformes de contenu, avec intégration de composants IA (chatbots, recommandations).  
+- **Applications web & e-commerce :** architecture et développement full-stack (PHP, JavaScript, MySQL, CSS), portails clients et plateformes de contenu, avec intégration de composants IA (chatbots, recommandations).  
 - **Approche centrée utilisateur :** audit des workflows existants, co-construction de solutions adaptatives, formation sur l’adoption des outils numériques et accompagnement au changement.
 
 
